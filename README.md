@@ -1,89 +1,65 @@
-# Hi 👋, I'm S.M Emon Islam
+👋 Hero Banner
+--------------------------------
 
-### Laravel Developer | PHP | Vue.js | REST API | MySQL
+Hi 👋 I'm S.M Emon Islam
 
-I'm a passionate Full Stack Laravel Developer from Bangladesh. I enjoy building scalable web applications, designing RESTful APIs, and creating modern admin dashboards with Laravel and Vue.js.
+Mid-Level Laravel Developer
+PHP • Laravel • Vue.js • REST API • MySQL
 
----
+Short Introduction
 
-## 🚀 About Me
+--------------------------------
 
-- 💻 Laravel & PHP Backend Developer
-- 🌱 Currently working with Laravel, Vue.js, Inertia.js & MySQL
-- 🔥 Interested in SaaS, Multi-Tenant Applications & REST APIs
-- 📚 Always learning new technologies and best practices
-- 🎯 Goal: Build high-quality, scalable web applications
+💼 About Me
 
----
+🔭 Currently Working On
 
-## 🛠 Tech Stack
+🌱 Currently Learning
 
-### Backend
-- PHP
-- Laravel
-- REST API
-- MySQL
-- MariaDB
+💬 Ask Me About
 
-### Frontend
-- Vue.js
-- JavaScript
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
+⚡ Fun Fact
 
-### Tools
-- Git
-- GitHub
-- Composer
-- NPM
-- Postman
-- VS Code
+--------------------------------
 
----
+🛠 Tech Stack
 
-## 📌 Featured Projects
+Backend
+Frontend
+Database
+Tools
+Cloud
 
-### 🏫 School Management System
-- Multi-Tenant SaaS
-- Role & Permission
-- Student Management
-- Teacher Management
-- Guardian Portal
-- Attendance
-- Exams
-- Fees
-- REST API
+--------------------------------
 
----
+🚀 Featured Projects
 
-### 🛒 E-Commerce CMS
-- Product Management
-- Order Management
-- Payment Gateway
-- Coupon System
-- REST API
-- Admin Dashboard
+School Management SaaS
+E-Commerce CMS
+REST API
+Authentication System
 
----
+--------------------------------
 
-## 📊 GitHub Stats
+📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smemonislam6&show_icons=true&theme=github_dark)
+GitHub Stats
+Top Languages
+GitHub Streak
+Contribution Graph
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smemonislam6&layout=compact&theme=github_dark)
+--------------------------------
 
-![GitHub Streak](https://streak-stats.demolab.com?user=smemonislam6&theme=github-dark)
+🏆 GitHub Trophy
 
----
+--------------------------------
 
-## 📫 Connect With Me
+🌐 Connect With Me
 
-- GitHub: https://github.com/smemonislam6
-- LinkedIn: Add your LinkedIn profile here
-- Email: your-email@example.com
+LinkedIn
+Portfolio
+Email
 
----
+--------------------------------
 
-⭐ Thanks for visiting my profile!
+⭐ Visitor Counter
