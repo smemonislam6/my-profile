@@ -33,7 +33,7 @@ I'm a **Mid-Level Laravel Developer** with **2+ years of professional experience
 
 **Database**
 
-`MySQL` `MariaDB`
+`MySQL` `PostgreSQL`
 
 **DevOps & Tools**
 
