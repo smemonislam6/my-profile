@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/smemonislam6"><img src="https://img.shields.io/badge/GitHub-smemonislam6-181717?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/sm-emon-islam-7b1a89137/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sm-emon-islam"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"></a>
 <a href="https://leetcode.com/u/smemonislam6/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"></a>
 </p>
 
@@ -96,7 +96,7 @@ Replace username with **smemonislam6** in your preferred widgets.
 ## 🌐 Connect With Me
 
 - **GitHub:** https://github.com/smemonislam6
-- **LinkedIn:** https://www.linkedin.com/in/sm-emon-islam-7b1a89137/
+- **LinkedIn:** https://www.linkedin.com/in/sm-emon-islam
 - **LeetCode:** https://leetcode.com/u/smemonislam6/
 - **Email:** smemonislam6@gmail.com
 
