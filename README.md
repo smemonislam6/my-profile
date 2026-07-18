@@ -48,7 +48,7 @@ I'm a **Mid-Level Laravel Developer** with **2+ years of professional experience
 | LMS | Learning Management System |
 | KodePTC | Laravel Business Application |
 | Hoteler Laravel | Hotel Management System |
-| Mart Bankers | Banking & Business Management |
+| Smart Bankers | Banking & Business Management |
 | Hyiper | Laravel Personal Project |
 
 > Many professional projects are private due to company confidentiality.
